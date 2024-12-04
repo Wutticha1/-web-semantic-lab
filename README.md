@@ -7,7 +7,7 @@
 - ARIA Labels 
 
 # git command used in this lab 
-- git clone (URL)
+- git clone (https://github.com/Wutticha1/web-semantic-lab)
 - git checkout -b development
 - git checkout -b feature/homepage
 - git checkout -b feature/contact
@@ -21,6 +21,7 @@
 6)   git commit -m  "เพิ่ม validation ในฟอร์มติดต่อ" 
 7)   git commit -m  "เพิ่ม ARIA labels ในฟอร์ม"
 8)   git commit -m  "เพิ่ม ARIA landmarks ในการนําทาง" 
+     git add .
 
 ## git command merge and push
 - git merge feature/homepage
