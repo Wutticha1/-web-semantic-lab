@@ -21,7 +21,7 @@
 6)   git commit -m  "เพิ่ม validation ในฟอร์มติดต่อ" 
 7)   git commit -m  "เพิ่ม ARIA labels ในฟอร์ม"
 8)   git commit -m  "เพิ่ม ARIA landmarks ในการนําทาง" 
-     git add .
+- git add .
 
 ## git command merge and push
 - git merge feature/homepage
