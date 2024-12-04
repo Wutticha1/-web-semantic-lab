@@ -7,10 +7,10 @@
 - ARIA Labels 
 
 # git command used in this lab 
-git clone (URL)
-git checkout -b development
-git checkout -b feature/homepage
-git checkout -b feature/contact
+- git clone (URL)
+- git checkout -b development
+- git checkout -b feature/homepage
+- git checkout -b feature/contact
 
 ## git command in development
 1)   git commit -m  "สร้างโครงสร้างเริ่มต้นของโปรเจค"
@@ -23,6 +23,6 @@ git checkout -b feature/contact
 8)   git commit -m  "เพิ่ม ARIA landmarks ในการนําทาง" 
 
 ## git command merge and push
-git merge feature/homepage
-git merge feature/contact
-git push origin development
+- git merge feature/homepage
+- git merge feature/contact
+- git push origin development
